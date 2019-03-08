@@ -1,2 +1,2 @@
-# churn-modeling
+# Churn Modeling
 Deep Learning
